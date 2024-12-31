@@ -1,2 +1,19 @@
 # Railway-management-system
 DSA project in c++
+In this project of Railway Booking Management System, we will be 
+implementing the ability to reserve and modify railway tickets.
+We will 
+use:
+- Linked List Operations 
+- Searching Algorithms
+- Sorting Algorithms
+in order to modify 
+and print the data according to user’s needs. 
+
+This is a Basic Implementation of C++ and Data Structure & Algorithm Concepts.
+We have 2 
+modules in this scenario, where a user or the passenger, has their own 
+options while admin has to login separately before having their own 
+options. It works from the entering of user details, to payment, to 
+printing of tickets and other operations are available as well.
+![image](https://github.com/user-attachments/assets/17a67667-50e3-4366-b237-5f13550bf031)
