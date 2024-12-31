@@ -16,4 +16,4 @@ modules in this scenario, where a user or the passenger, has their own
 options while admin has to login separately before having their own 
 options. It works from the entering of user details, to payment, to 
 printing of tickets and other operations are available as well.
-![image](https://github.com/user-attachments/assets/17a67667-50e3-4366-b237-5f13550bf031)
+
